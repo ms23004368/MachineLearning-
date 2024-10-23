@@ -1,4 +1,4 @@
-# Student Performance Prediction Using Supervised and Unsupervised Learning
+# Student Performance Prediction Using Supervised Unsupervised Learning, Reainforcedment Learning 
 
 This project applies both **supervised** and **unsupervised** machine learning algorithms...
 
