@@ -26,6 +26,7 @@ The goal of this project is to leverage machine learning techniques...
 ### License
 None
 
+---
 # 1. Introduction
 In the field of education, predicting student performance has become increasingly critical in improving learning outcomes, early intervention, and resource allocation. Educational institutions rely on various strategies to identify students at risk of underperformance, but traditional methods often fall short in effectively analyzing the diverse and complex factors that influence student success. As the availability of educational data grows, machine learning (ML) offers a promising approach to enhancing predictive accuracy by analyzing student data more comprehensively.
 
@@ -129,3 +130,6 @@ The results of the models were analyzed using metrics such as accuracy, precisio
 
 # 6. Conclusion
 This analysis used both supervised and unsupervised machine learning techniques to predict student performance based on their engagement with the course. Random Forest provided the best overall performance, while K-Means and DBSCAN helped in segmenting students and identifying outliers. Practical applications include offering extra support to low-engagement students and using the insights to tailor teaching strategies.
+
+Reinforcement learning algorithms also demonstrated potential for improving decision-making by optimizing actions based on rewards and penalties received from students' learning behaviors. This method could further enhance student performance prediction through adaptive learning interventions.
+
